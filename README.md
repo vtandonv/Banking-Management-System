@@ -1,4 +1,4 @@
-# Online-Banking-Management-System
+# Banking-Management-System
 A Unix terminal based project which implements online banking using system calls, predominantly. Socket programming is used to communicate with the server for handling transactions and database updates. File locking has been implemented to prevent concurrent access to a particular user account.
 
 This project has been created to implement a user friendly online banking system. It runs on a Unix Terminal.
